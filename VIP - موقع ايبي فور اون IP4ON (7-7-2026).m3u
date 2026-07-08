@@ -1,12 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="2392111" tvg-name="|WC| AL AOULA INTER HD TNT" tvg-logo="http://vodkom.com/worldcup/CDM.png" group-title="WORLD CUP 2026", |WC| AL AOULA INTER HD TNT
-http://sansatplus.net:88/02022056573173/HLcjXrgBxozgqEL/2392111
-#EXTINF:-1 tvg-id="2392112" tvg-name="|WC| AL AOULA INTER FHD" tvg-logo="http://vodkom.com/worldcup/CDM.png" group-title="WORLD CUP 2026", |WC| AL AOULA INTER FHD
-http://sansatplus.net:88/02022056573173/HLcjXrgBxozgqEL/2392112
-#EXTINF:-1 tvg-id="2392113" tvg-name="|WC| ARRYADIA FHD" tvg-logo="http://vodkom.com/worldcup/CDM.png" group-title="WORLD CUP 2026", |WC| ARRYADIA FHD
-http://sansatplus.net:88/02022056573173/HLcjXrgBxozgqEL/2392113
-#EXTINF:-1 tvg-id="2392114" tvg-name="|WC| ARRYADIA HD" tvg-logo="http://vodkom.com/worldcup/CDM.png" group-title="WORLD CUP 2026", |WC| ARRYADIA HD
 http://sansatplus.net:88/02022056573173/HLcjXrgBxozgqEL/2392114
 
 #EXTINF:-1 tvg-id="852915" tvg-name="Alwan Sport 1 HD" tvg-logo="" group-title="ALWAN SPORT", Alwan Sport 1 HD
